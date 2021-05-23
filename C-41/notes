@@ -1,0 +1,4 @@
+droplets rgb : 25,22,80
+
+this.body = Matter.Bodies.rectangle(x, y, w, h);
+		World.add(world,this.body);
